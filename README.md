@@ -9,7 +9,7 @@ make
 Example
 
 ```sh
-sh ~/my_tools/oath-toolkit-docker/bin/example
+sh bin/example
 ```
 
 ## License
