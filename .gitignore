@@ -1,0 +1,4 @@
+bin/*
+!bin/example
+etc/*
+!etc/example
