@@ -2,4 +2,4 @@
 . ~/.bash_aliases
 # Open the URL specified in the argument in the default browser.
 open "https://www.google.com/"
-docker run --rm oath-toolkit --totp -b $(cat $HOME/local/oath-toolkit-docker/etc/example) | pbcopy
+docker run --rm oath-toolkit --totp -b $(cat $HOME/my_tools/oath-toolkit-docker/etc/example) | pbcopy
